@@ -1,0 +1,13 @@
+1. Quantas suítes de testes você desenvolveu?
+Cinco suítes foram desenvolvidas.
+2. Os testes desenvolvidos são manuais ou automatizados?
+Os testes desenvolvidos são Automatizados.
+3. Onde os testes se localizam na pirâmide apresentada?
+No meio da pirâmide.
+4. Os testes desenvolvidos são funcionais ou não-funcionais?
+Os testes desenvolvidos são funcionais.
+5. Alguns dos testes desenvolvidos são testes Fim-a-Fim (End-To-End)?
+Sim.
+6. O que se deve fazer para que os testes desenvolvidos funcionem em modo regressão?
+O teste de regressão executa todos as suítes já desenvolvidas e verficadas.
+Sua finalidade é verificar se alguma alteração do programa(software) é capaz de ocasionar algum erro.

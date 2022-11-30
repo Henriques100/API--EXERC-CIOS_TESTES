@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: principal.secundario.Testes
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.019 s - in principal.secundario.Testes
